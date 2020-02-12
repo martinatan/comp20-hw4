@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+setlist {
+	text-align: center;
+	font-family: Helvetica, Verdana, sans-serif;
+	font-size: 20pt;
+	color: #993366;
+
+}
+
+band {
+	display:block;
+	margin: 15px;
+	font-size: 36pt;
+	text-shadow: 0 0 3px #ffcc66;
+	padding-bottom: 15px;
+}
+
+tagline {
+	display:block;
+	font-size:24pt;
+	font-style: italic;
+}
+
+song {
+	display:block;
+	margin: auto;
+	margin-bottom: 10px;
+	background-color:#99ffcc;
+	width: 500px;
+	padding-bottom: 15px;
+}
+
+artist {
+	display:block;
+	font-style: italic;
+}
+
+songtitle {
+	display:block;
+	font-weight:bold;
+
+}
+
+genre {
+	display:block;
+}
+
+year {
+	display:block;
+}

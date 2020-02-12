@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "hw4.css"?>
+<setlist>
+  <band>
+    <name>Party Favors</name>
+    <tagline>A cover band for your next shindig!</tagline>
+  </band>
+  <song>
+    <artist>TLC</artist>
+    <songtitle>Waterfalls</songtitle>
+    <genre>RnB</genre>
+    <year>1994</year>
+  </song>
+  <song>
+    <artist>Charli XCX, Troye Sivan</artist>
+    <songtitle>1999</songtitle>
+    <genre>Pop</genre>
+    <year>2018</year>
+  </song>
+  <song>
+    <artist>The Killers</artist>
+    <songtitle>Mr. Brightside</songtitle>
+    <genre>Rock</genre>
+    <year>2003</year>
+  </song>
+  <song>
+    <artist>Fall Out Boy</artist>
+    <songtitle>Sugar, We're Goin Down</songtitle>
+    <genre>Punk Rock</genre>
+    <year>2005</year>
+  </song>
+  <song>
+    <artist>Chumbawamba</artist>
+    <songtitle>Tubthumping</songtitle>
+    <genre>Dance-Rock</genre>
+    <year>1997</year>
+  </song>
+  <song>
+    <artist>Counting Crows</artist>
+    <songtitle>Accidentally In Love</songtitle>
+    <genre>Pop rock</genre>
+    <year>2004</year>
+  </song>
+  <song>
+    <artist>Taylor Swift</artist>
+    <songtitle>Love Story</songtitle>
+    <genre>Country music</genre>
+    <year>2009</year>
+  </song>
+  <song>
+    <artist>Journey</artist>
+    <songtitle>Don't Stop Believin'</songtitle>
+    <genre>Rock</genre>
+    <year>1981</year>
+  </song>
+  <song>
+    <artist>House of Pain</artist>
+    <songtitle>Jump Around</songtitle>
+    <genre>Pop</genre>
+    <year>1989</year>
+  </song>
+  <song>
+    <artist>Billie Eilish</artist>
+    <songtitle>bad guy</songtitle>
+    <genre>Alternative/Indie</genre>
+    <year>2019</year>
+  </song>
+</setlist>
